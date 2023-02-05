@@ -1,7 +1,7 @@
 import streamlit as st
 from PIL import Image
 
-st.title("かずきあぷりaaaabbbbbb")
+st.title("えま")
 st.caption("これはテストです")
 st.subheader("自己紹介")
 st.text('テキストてすと')
